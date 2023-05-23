@@ -14,7 +14,7 @@ The authors of the article did not provide their full and original  experimental
 **3.0 DATA and MODEL**
 The datapoints used in this project are extracted from the graphs and tables of the aforementioned article (reference below). 
 
-The article is using two ANN models. I am only replicating their second one (since the first one is extremely difficult/inefficient to replicated without proper datapoints)
+The article is using two ANN models. I am only replicating their second one (since the first one is extremely difficult/inefficient to be replicated without proper datapoints)
 
 The extracted dataset contains three columns (2 inputs and 1 output) based on the following description:
 
